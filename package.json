@@ -1,0 +1,22 @@
+{
+  "name": "@lessuiz/simple-dropdown",
+  "version": "1.0.0",
+  "description": "This is a very, VERY simple dropdown menu module.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lessuiz/dropdown-module.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "Lessuiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lessuiz/dropdown-module/issues"
+  },
+  "homepage": "https://github.com/Lessuiz/dropdown-module#readme"
+}
