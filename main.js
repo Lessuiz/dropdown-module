@@ -3,7 +3,7 @@ exports.createDropdowns = function () {
   const navs = document.querySelectorAll('.nav-drop');
 
   navs.forEach((nav) => {
-    nav.position = 'absolute';
+    nav.style.position = 'absolute';
     nav.hidden = true;
   });
 
